@@ -1,0 +1,9 @@
+*.class
+*.jar
+/.settings
+/.mvn
+.project
+.classpath
+/target
+mvnw
+mvnw.cmd
